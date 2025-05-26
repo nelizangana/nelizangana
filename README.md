@@ -4,7 +4,7 @@
 <h2>👨‍💻 IT Support Projects:</h2>
 
 - <b>Operating System Lab (Windows & Linux Troubleshooting) </b>
-  - [Simulate common support issues in Windows and Linux virtual machines](https://github.com/URL)
+  - [Simulate common support issues in Windows and Linux virtual machines](https://github.com/)
   - [Practice diagnosing and fixing problems like boot errors, slow performance, and user access issues](https://github.com/URL)
   - [Showcase step-by-step troubleshooting with screenshots and logs](https://github.com/URL)
 - <b>System Maintenance & Automation Scripts </b>
