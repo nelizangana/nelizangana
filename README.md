@@ -19,10 +19,10 @@
 - <b>Network Setup and Troubleshooting Lab</b>
   - []()
 
-<h2>📺Certifications</h2>
-[Google IT Support Certificate]
+<h2>🎓Certifications</h2>
+- [Google IT Support Professional](https://github.com/URL)
 
-<h2>📺Blogs & Articles</h2>
+<h2>✍️Blogs & Articles</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
