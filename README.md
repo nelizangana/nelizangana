@@ -1,5 +1,5 @@
 <h1>Hi, I'm Nelisiwe! 
-<br/><a href="https://github.com/joshmadakor1">IT Support Technician, <a href="https://www.linkedin.com/in/joshmadakor/"> Aspiring Cybersecurity Professional <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
+<br/><a href="https://github.com/joshmadakor1">Conversation Designer, <a href="https://www.linkedin.com/in/joshmadakor/"> AI Trainer <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
 
 <h2>👨‍💻 IT Support Projects:</h2>
 
